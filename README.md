@@ -1,5 +1,3 @@
-# HealthAI – Intelligent Healthcare AssistantAdd commentMore actions
-
 This project is a smart chatbot-based healthcare assistant built using Python and Gradio.
 It includes three modules:
 
